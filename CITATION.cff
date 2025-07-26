@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "A Framework for IoT-Enabled Smart Manufacturing for Energy and Resource Optimization (Scilab Version)"
+authors:
+  - family-names: Bazigu
+    given-names: Alex
+    orcid: https://orcid.org/0009-0000-1959-5559
+  - family-names: Mwebaze
+    given-names: Johnson 
+date-released: 2025-03-21
+version: "1.0"
+doi: 10.5281/zenodo.14923407
+repository-code: https://github.com/EngBalex/A-Framework-for-IoT-Enabled-Smart-Manufacturing-for-Energy-and-Resource-Optimization-Schilab
+url: https://doi.org/10.5281/zenodo.14923407
+license: MIT
+type: software
+keywords:
+  - IoT
+  - Smart Manufacturing
+  - Scilab
+  - Energy Optimization
+  - Open Source
